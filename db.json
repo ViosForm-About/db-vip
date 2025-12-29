@@ -6098,7 +6098,7 @@
       "quantity": 1,
       "amount": 80000,
       "durationMonths": 1,
-      "status": "pending",
+      "status": "cancelled",
       "created_at": "2025-12-29T07:17:26.505Z",
       "expires_at": "2025-12-30T07:17:26.505Z",
       "payment_gateway": "rumahotp",
@@ -12200,7 +12200,7 @@
         }
       },
       "qr_string": "00020101021226670016COM.NOBUBANK.WWW01189360050300000879140214250825000006680303UMI51440014ID.CO.QRIS.WWW0215ID20254297557180303UMI5204481253033605405815265802ID5920CINDIGITAL OK25956226007CILACAP61055321162070703A0163046241",
-      "updated_at": "2025-12-29T07:17:26.974Z"
+      "updated_at": "2025-12-29T07:17:29.568Z"
     }
   },
   "products": {
