@@ -1,1 +1,64 @@
-{}
+{
+  "users": {
+    "7569608923": {
+      "id": 7569608923,
+      "is_bot": false,
+      "first_name": "Jery - Help U",
+      "username": "JeryPets",
+      "language_code": "id",
+      "join_date": "2025-12-29T06:30:28.527Z",
+      "purchases": [],
+      "status": "active"
+    }
+  },
+  "transactions": {},
+  "products": {
+    "TRIAL": {
+      "name": "Trial Paket",
+      "duration": 1,
+      "price": 0
+    },
+    "SMP": {
+      "name": "SMP Vipp",
+      "duration": 1,
+      "price": 3000
+    },
+    "SMA": {
+      "name": "SMA VVIP",
+      "duration": 1,
+      "price": 75000
+    },
+    "MIX": {
+      "name": "Mix All",
+      "duration": 1,
+      "price": 100000
+    },
+    "CHINDO": {
+      "name": "Chindo",
+      "duration": 1,
+      "price": 60000
+    },
+    "TANTE": {
+      "name": "Tante - Tante",
+      "duration": 1,
+      "price": 80000
+    },
+    "JAV": {
+      "name": "Jav & Anime",
+      "duration": 1,
+      "price": 70000
+    }
+  },
+  "settings": {
+    "payment_gateway": "rumahotp",
+    "channel_links": {
+      "SMP": "https://t.me/viosaja13/265",
+      "SMA": "https://t.me/viosaja13/265",
+      "MIX": "https://t.me/viosaja13/265",
+      "CHINDO": "https://t.me/viosaja13/265",
+      "TANTE": "https://t.me/viosaja13/265",
+      "JAV": "https://t.me/viosaja13/265k"
+    }
+  },
+  "media": []
+}
