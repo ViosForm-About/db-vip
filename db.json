@@ -7,11 +7,26 @@
       "username": "JeryPets",
       "language_code": "id",
       "join_date": "2025-12-29T06:30:28.527Z",
-      "purchases": [],
+      "purchases": [
+        "TRX-1766991640824-91bad485"
+      ],
       "status": "active"
     }
   },
-  "transactions": {},
+  "transactions": {
+    "TRX-1766991640824-91bad485": {
+      "id": "TRX-1766991640824-91bad485",
+      "userId": "7569608923",
+      "productType": "SMP",
+      "quantity": 1,
+      "amount": 3000,
+      "durationMonths": 1,
+      "status": "pending",
+      "created_at": "2025-12-29T07:00:40.824Z",
+      "expires_at": "2025-12-30T07:00:40.824Z",
+      "payment_gateway": "rumahotp"
+    }
+  },
   "products": {
     "TRIAL": {
       "name": "Trial Paket",
